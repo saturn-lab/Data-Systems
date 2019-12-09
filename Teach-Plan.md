@@ -85,13 +85,4 @@ SQL-II-III 第二、三部分
 |   8   | 事务处理Transaction | 讲课 |  CZ  |    |
 |   9   |  数据表设计 | 讲课 |  CZ  |    |
 
-## 软件要求：
-
-操作平台：Windows 10 64位；
-
-软件；python（64位），jupyter notebook，ipython-sql；
-
-数据库软件：sqlite-window， postgresql 12 -window
-
-编辑器软件：VS code/Sublime/Notepad++
 
