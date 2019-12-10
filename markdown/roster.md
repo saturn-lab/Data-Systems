@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-|   9008   |   董玮   |  [self](self_intro.md)    |   remark   |
+|   9008   |   董玮   |  [self](Self-intro.md)    |   remark   |
 |      |      |      |      |
 
