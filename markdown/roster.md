@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-|      |      |      |  [self](Self_intro.md)    |
+|  0126    |   震   |      [self](Self-Intro.md)    | XXX  |
 |      |      |      |      |
 
