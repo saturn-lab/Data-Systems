@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-| 0911 | 高鹏 |  [个人简介](www.baidu.com) |   备注   |
+| 0911 | 高鹏 |  [个人简介](https://github.com/alarm919/Learn-Database-Basics/edit/master/markdown/9011.md) |   备注   |
 |      |      |      |      |
 
