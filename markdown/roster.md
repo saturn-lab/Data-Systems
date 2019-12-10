@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-| 9061 |  周    | [Self]Self_intro.md  | XXX    |
+| 9061 |  周    | [Self]Self-Intro.md | XXX    |
 |      |      |      |      |
 
