@@ -1,13 +1,11 @@
-# Learn-Database-Basics
+### 个人简介
 
-``Intructor: Zhen Chen`` 
+我的名字叫  <u>季艳峰</u> 
 
-## 软件要求：
+来自  <u>浙江</u> 
 
-操作平台：Windows 10 64位；
+喜欢 <u>上课</u> 
 
-编程软件：python（64位），jupyter notebook，ipython-sql；
+擅长 <u>听课</u> 
 
-数据库软件：sqlite-window， postgresql 12 -window
-
-编辑器软件：VS code/Sublime/Notepad++
+性格 <u>无</u> 
