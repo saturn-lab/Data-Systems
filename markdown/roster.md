@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-|9051|xiaoyanchang|[self](self-intro.md) |      |
+|9051|xiaoyanchang|[self](9051.md) |      |
 |      |      |      |      |
 
