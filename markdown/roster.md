@@ -3,6 +3,6 @@
 
 |  ID    |  名字    |  主页    | 备注     |
 | ---- | ---- | ---- | ---- |
-|  0126    |   震   |      [self](Self-Intro.md)    | XXX  |
+|  9047    |   王斯日古楞   |      [self](Self-Intro.md)    | XXX  |
 |      |      |      |      |
 
