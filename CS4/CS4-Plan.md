@@ -24,11 +24,11 @@
 |   5   | 连接（Join）优化: Nested Loop Join, Block Nested Loop Join, Index Nested Loop Join | 讲课 | CZ   | NLJ, BNLJ, INLJ |
 |   6   | 连接（Join）优化: Sort Merge Join, Hash Partition JOIN | 讲课 | CZ   | SMJ, HPJ |
 
-## Theory
+## E/R
 
 | 时间段 |                             内容                             | 讲课 / 实践 | 分工  |           备注 |
 | :----- | :----------------------------------------------------------: | :---------: | :---: | -------------: |
 |   0   | 课程签到     |  logistics   |          |        |
 |   7   |  E/R模型, 数据表设计  |    讲课  |  CZ   |     |
-|   9   |  数据表设计 | 讲课 |  CZ  |    |
+
 
