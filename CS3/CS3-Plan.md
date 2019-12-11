@@ -20,6 +20,11 @@ SQL-I 第一部分
 
 ## 第四大节：SQL-II语言
 
+简要介绍：
+- [sqlite](http://sqlite.org), 
+- [mysql](https://dev.mysql.com), 
+- [postgresql](https://www.postgresql.org);
+
 
 SQL-II-III 第二、三部分
 
