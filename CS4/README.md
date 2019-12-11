@@ -7,7 +7,7 @@ MySQL存储引擎MyISAM, InnoDB
 
 MySQL： InnoDB 表结构 聚簇索引(Clustered Index)	
 
-PostgreSQL 堆
+PostgreSQL： 堆上元组（HOT, Heap Only Tuple）
 
 
 # Reference
