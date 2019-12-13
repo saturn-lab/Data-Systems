@@ -1,8 +1,9 @@
-# Learn-Database-Basics
+# Learn-Database
 
-Git Markdown
+An Pracitce approach to learn database 
 
-Computing
+## Database principle
 
-database principle
+## Database implmentation
+
 
