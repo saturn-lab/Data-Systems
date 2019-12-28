@@ -21,3 +21,12 @@ PostgreSQL: SQL Lang,  https://www.postgresql.org/docs/12/sql.html
 2. Enrico Pirozzi, Gregory Smith, Ibrar Ahmed, **PostgreSQL 10 High Performance**, Packt Publishing, 2018-04-30.
 
 3. The Internals of PostgreSQL: http://www.interdb.jp/pg/index.html
+
+## 数据库内核实现
+
+MySQL Internals : https://dev.mysql.com/doc/internals/en/
+
+PostgreSQL Internals: https://www.postgresql.org/docs/12/internals.html
+
+
+
