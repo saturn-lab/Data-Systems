@@ -1,9 +1,9 @@
 # Learn-Database
 
-An Pracitce approach to learn database 
+An Pracitce approach to learn data systems, such as database and NoSQL etc.
 
-## Database principle
+## Data Systems principle
 
-## Database implmentation
+## Data Systems implmentation
 
 
