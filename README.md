@@ -1,6 +1,6 @@
 # Data System Learning
 
-An Pracitce approach to learn data systems, such as database and NoSQL etc.
+An Pracitce approach to learn data systems, such as database, NoSQL and NewSQL etc.
 
 ## Data Systems principle
 
