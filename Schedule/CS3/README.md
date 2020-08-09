@@ -1,10 +1,10 @@
 ## 数据库教科书：
 
-** Jeff Ullman, and Jennifer Widom. A First Course in Database Systems**, Chapter 1- Chapter 12
+Jeff Ullman, and Jennifer Widom. A First Course in Database Systems (FCDB), Chapter 1- Chapter 12
 
-** Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database System Implementation**, Chapter 13- Chapter 23
+Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database System Implementation, Chapter 13- Chapter 23
 
-** Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database Systems: The Complete Book (DS:CB), 2008.
+Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database Systems: The Complete Book (DS:CB), 2008.
 
 
 ## SQL Reference
