@@ -1,8 +1,8 @@
 ## 数据库教科书：
 
-**A First Course in Database Systems**, Chapter 1- Chapter 12
+** Jeff Ullman, and Jennifer Widom. A First Course in Database Systems**, Chapter 1- Chapter 12
 
-**Database System Implementation**, Chapter 13- Chapter 23
+** Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database System Implementation**, Chapter 13- Chapter 23
 
 
 ## SQL Reference
