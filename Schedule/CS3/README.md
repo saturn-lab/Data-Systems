@@ -4,6 +4,8 @@
 
 ** Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database System Implementation**, Chapter 13- Chapter 23
 
+** Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer D. Widom, Database Systems: The Complete Book (DS:CB), 2008.
+
 
 ## SQL Reference
 
@@ -21,6 +23,7 @@ PostgreSQL: SQL Lang,  https://www.postgresql.org/docs/12/sql.html
 2. Enrico Pirozzi, Gregory Smith, Ibrar Ahmed, **PostgreSQL 10 High Performance**, Packt Publishing, 2018-04-30.
 
 3. The Internals of PostgreSQL: http://www.interdb.jp/pg/index.html
+
 
 ## 数据库内核实现
 
